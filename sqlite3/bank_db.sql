@@ -3,6 +3,7 @@ drop table if exists checkingaccount;
 drop table if exists owns;
 drop table if exists checktable;
 drop table if exists accounttransaction;
+drop table if exists accounttransactiontype;
 drop table if exists account;
 drop table if exists accountholder;
 drop table if exists accounttype;
